@@ -357,7 +357,7 @@ components:
           description: End time of the interval in seconds since the EPOCH
           type: integer
           example: 1655466889
-        participants:
+        owners:
           type: array
           items:
             $ref: '#/components/schemas/User'
