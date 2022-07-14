@@ -1,1 +1,1 @@
-"# documentation" 
+# API documentation for using WhatTime
